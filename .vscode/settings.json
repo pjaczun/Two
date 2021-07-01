@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/28b82e62-e98d-43b0-ab1a-426840e9ddb7/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/TwoWebApp",
+    "appService.deploySubpath": "publish"
+}
