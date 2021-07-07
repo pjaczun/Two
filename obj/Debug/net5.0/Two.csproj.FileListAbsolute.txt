@@ -38,3 +38,8 @@ C:\Users\pjacz\AzureProjects\Two\obj\Debug\net5.0\ref\Two.dll
 C:\Users\pjacz\AzureProjects\Two\obj\Debug\net5.0\Two.pdb
 C:\Users\pjacz\AzureProjects\Two\obj\Debug\net5.0\Two.genruntimeconfig.cache
 C:\Users\pjacz\AzureProjects\Two\obj\Debug\net5.0\Two.csproj.CopyComplete
+C:\Users\pjacz\AzureProjects\Two\bin\Debug\net5.0\publish\web.config
+C:\Users\pjacz\AzureProjects\Two\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\pjacz\AzureProjects\Two\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\pjacz\AzureProjects\Two\bin\Debug\net5.0\publish\Two.deps.json
+C:\Users\pjacz\AzureProjects\Two\bin\Debug\net5.0\publish\Two.runtimeconfig.json
